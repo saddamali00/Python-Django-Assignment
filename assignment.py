@@ -47,5 +47,3 @@ split_name = name.split("@")
 print(split_name)
 
 
-# ASSIGNMENT
-# WRITE 10 STRING MANIPULATION PRE DEFINED FUNCTION EXAMPLE
