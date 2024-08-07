@@ -17,3 +17,4 @@ print(len(country_name)) # IT WILL PRINT LENGTH OF COUNTRY_NAME it count the let
 fruit_name = "apple banana apple watermelon"
 print(fruit_name.count("apple")) # IT WILL COUNT HOW MANY SAME LETTERS ARE THERE
 print(fruit_name.startswith("b")) # IT WILL RETURN TRUE OR FALSE IF STARTING LETTER IS MATCH
+print(fruit_name.split("@"))
