@@ -20,3 +20,7 @@ elif percentage > 100:
     print("Please enter upto 100 only")
 else:
     print("Fail")
+    
+
+
+    
