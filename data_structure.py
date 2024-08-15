@@ -10,7 +10,23 @@
 # print(len(name1))
 
 
+# SORT LIST USING LOOP
 list_data = [1,5,9,0,6,89,1203,4,23]
+
+
+
+# list_data.sort()
+# print(list_data)
+
+
+# number = len(list_data)
+
+# for i in range(number):
+#   for j in range(0, number-i-1):
+#     if list_data[j] > list_data[j+1] :
+#       list_data[j], list_data[j+1] = list_data[j+1], list_data[j]
+
+# print(list_data)
 
 # highest_number = max(list_data)
 
@@ -24,9 +40,17 @@ list_data = [1,5,9,0,6,89,1203,4,23]
 
 # print(large_number)
 
-sum = 0
+# sum = 0
 
-for i in list_data:
-    sum+=i
+# for i in list_data:
+#     sum+=i
     
-print(sum)
+# print(sum)
+
+
+#  SWAPPING NUMBER
+# a = 10
+# b = 20
+
+# a,b = b,a
+# print(a,b)
